@@ -55,13 +55,12 @@ body {
   font-family: 'Source Sans Pro', sans-serif;
   font-weight: normal;
   line-height: 1.2;
-  letter-spacing: -0.08em;
   text-shadow: none;
   word-wrap: break-word; }
 
 .reveal h1 {
     font-family: 'Bitter', serif;
-    font-size: 3.77em;
+    font-size: 3.5em;
 }
 
 .reveal h2 {
